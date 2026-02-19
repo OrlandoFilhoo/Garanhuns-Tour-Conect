@@ -171,8 +171,14 @@ body {
   font-weight: 500;
   text-decoration: none;
 
-  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 8px 20px #0000004d;
   transition: 0.3s;
+}
+
+.btn-customdois:hover{
+  transform: scale(1.05);
+  background: #bbe3fa;
+  color: #003172;
 }
 
 .btn-customdois i {
@@ -194,6 +200,7 @@ body {
 .btn-customdois .btn-text span {
   font-weight: 700;
 }
+
 
 #yt:hover {
   transform: scale(1.05);
@@ -244,6 +251,7 @@ body {
 
   .sec-principal {
     padding-top: 70px;
+    gap: 0px;
   }
 
   .img_principal {
