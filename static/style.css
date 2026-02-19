@@ -72,6 +72,9 @@ body {
 
   padding-top: 80px;
   gap: 20px;
+
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .img_principal {
@@ -101,11 +104,6 @@ body {
 .botoes {
   width: 100%;
   max-width: 650px;
-}
-.zap,
-.inst,
-.tk,
-.yt:hover {
 }
 
 .btn-custom {
@@ -236,7 +234,6 @@ body {
   .header-icons {
     height: 70px;
     padding: 0px 15px;
-    padding-right: 40px;
   }
 
   .icon i {
@@ -247,8 +244,6 @@ body {
 
   .sec-principal {
     padding-top: 70px;
-    padding-left: 20px;
-    padding-right: 40px;
   }
 
   .img_principal {
@@ -264,14 +259,24 @@ body {
     font-size: 20px;
   }
 
-  .sec-principal {
-    padding-top: 70px;
-    padding-left: 20px;
-    padding-right: 40px;
-  }
-
   .img_principal {
     width: 150px;
     height: 150px;
+  }
+
+  .sec-principal {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .title h1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .h4 {
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
   }
 }
