@@ -272,11 +272,13 @@ body {
   .title h1 {
     padding-left: 10px;
     padding-right: 10px;
+    font-size: 2rem;
   }
 
   .h4 {
     padding-left: 10px;
     padding-right: 10px;
     text-align: center;
+    font-size: 1rem;
   }
 }
