@@ -313,6 +313,9 @@ body {
   margin: 4px 0;
   color: #bbe3fa;
   font-size: 0.9rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .footer-dev span {
