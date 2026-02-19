@@ -296,6 +296,40 @@ body {
   }
 }
 
+.footer {
+  width: 100%;
+  background: #001f4d;
+  padding: 20px 15px;
+  margin-top: 40px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+}
+
+.footer-content p {
+  margin: 4px 0;
+  color: #bbe3fa;
+  font-size: 0.9rem;
+}
+
+.footer-dev span {
+  font-weight: 600;
+  color: #38b6ff;
+}
+
+.footer-dev {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
 [data-anime]{
   opacity: 0;
   transition: 1s;
